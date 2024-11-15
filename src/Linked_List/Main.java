@@ -8,7 +8,7 @@ public class Main {
          L1.insertLast("Vaggelis");
          L1.insertLast("Iasonas");
          L1.insertLast("Maggi");
-        //Ekana mia allagh
+        //Svhnw thn allagh
          L1.removeFirst();
          L1.removeLast();
 
